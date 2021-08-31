@@ -3,10 +3,8 @@
 classes:
   - exercises:
       # `file` is relative to .strigo directory
-      - file: "../labs/common/hello.md"
-        title: "Hello!"
-      - file: "../hello-world/world.md"
-        title: "World!"
+      - file: "../exercises/hello_world.md"
+        title: "Hello World"
 
 # Class exercises - configuration for multiple classes
 # ---
