@@ -1,6 +1,7 @@
 # Class exercises - configuration for single class
 ---
 classes:
+  - class_id: "YugabyteDB Basics of Distributed SQL"
   - exercises:
       # `file` is relative to .strigo directory
       - file: "../exercises/hello_world.md"
